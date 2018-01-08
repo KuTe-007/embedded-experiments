@@ -1,0 +1,2 @@
+REQ-01: Pokud jsou všechny LED zhasnuté, stiskem tlačítka A se všechny rozsvítí. LED zůstanou svítit i po uvolnění tlačítka A.
+REQ-02: Pokud jsou všechny LED rozsvícené, stiskem tlačítka A všechny zhasnou. LED zůstanou zhasnuté i po uvolnění tlačítka A.
