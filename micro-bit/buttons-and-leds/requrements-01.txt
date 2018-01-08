@@ -1,0 +1,2 @@
+REQ-01: Pokud je tlačítko A stisknuté, všechny LED jsou rozsvícené
+REQ-02: Pokud tlačítko A není stisknuté, všechny LED jsou zhasnuté
